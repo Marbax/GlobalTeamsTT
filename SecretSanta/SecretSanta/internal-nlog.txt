@@ -1,0 +1,280 @@
+2022-04-30 20:02:07.3955 Info Message Template Auto Format enabled
+2022-04-30 20:02:07.4097 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-30 20:02:07.4386 Info Adding target FileTarget(Name=allfile)
+2022-04-30 20:02:07.4386 Info Adding target FileTarget(Name=ownFile-web)
+2022-04-30 20:02:07.4585 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-04-30 20:02:07.4705 Info Configuration initialized.
+2022-04-30 20:02:07.4705 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-30 20:07:21.3633 Info Message Template Auto Format enabled
+2022-04-30 20:07:21.3849 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-30 20:07:21.4121 Info Adding target FileTarget(Name=allfile)
+2022-04-30 20:07:21.4121 Info Adding target FileTarget(Name=ownFile-web)
+2022-04-30 20:07:21.4312 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-04-30 20:07:21.4434 Info Configuration initialized.
+2022-04-30 20:07:21.4434 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-30 20:23:54.0956 Info Message Template Auto Format enabled
+2022-04-30 20:23:54.1095 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-30 20:23:54.1354 Info Adding target FileTarget(Name=allfile)
+2022-04-30 20:23:54.1354 Info Adding target FileTarget(Name=ownFile-web)
+2022-04-30 20:23:54.1514 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-04-30 20:23:54.1617 Info Configuration initialized.
+2022-04-30 20:23:54.1617 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-30 20:29:08.5095 Info Message Template Auto Format enabled
+2022-04-30 20:29:08.5245 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-30 20:29:08.5554 Info Adding target FileTarget(Name=allfile)
+2022-04-30 20:29:08.5554 Info Adding target FileTarget(Name=ownFile-web)
+2022-04-30 20:29:08.5721 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-04-30 20:29:08.5838 Info Configuration initialized.
+2022-04-30 20:29:08.5838 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-30 21:16:55.1637 Info Message Template Auto Format enabled
+2022-04-30 21:16:55.1765 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-30 21:16:55.2012 Info Adding target FileTarget(Name=allfile)
+2022-04-30 21:16:55.2012 Info Adding target FileTarget(Name=ownFile-web)
+2022-04-30 21:16:55.2178 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-04-30 21:16:55.2282 Info Configuration initialized.
+2022-04-30 21:16:55.2282 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-30 21:18:35.6931 Info Message Template Auto Format enabled
+2022-04-30 21:18:35.7064 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-30 21:18:35.7333 Info Adding target FileTarget(Name=allfile)
+2022-04-30 21:18:35.7347 Info Adding target FileTarget(Name=ownFile-web)
+2022-04-30 21:18:35.7347 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-04-30 21:18:35.7601 Info Configuration initialized.
+2022-04-30 21:18:35.7601 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-30 21:21:50.7322 Info Message Template Auto Format enabled
+2022-04-30 21:21:50.7447 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-30 21:21:50.7724 Info Adding target FileTarget(Name=allfile)
+2022-04-30 21:21:50.7724 Info Adding target FileTarget(Name=ownFile-web)
+2022-04-30 21:21:50.7913 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-04-30 21:21:50.8015 Info Configuration initialized.
+2022-04-30 21:21:50.8015 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-30 21:23:33.8877 Info Message Template Auto Format enabled
+2022-04-30 21:23:33.9018 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-30 21:23:33.9295 Info Adding target FileTarget(Name=allfile)
+2022-04-30 21:23:33.9295 Info Adding target FileTarget(Name=ownFile-web)
+2022-04-30 21:23:33.9492 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-04-30 21:23:33.9613 Info Configuration initialized.
+2022-04-30 21:23:33.9613 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-30 21:29:33.7816 Info Message Template Auto Format enabled
+2022-04-30 21:29:33.7816 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-30 21:29:33.8196 Info Adding target FileTarget(Name=allfile)
+2022-04-30 21:29:33.8196 Info Adding target FileTarget(Name=ownFile-web)
+2022-04-30 21:29:33.8356 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-04-30 21:29:33.8482 Info Configuration initialized.
+2022-04-30 21:29:33.8482 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-30 21:35:00.2358 Info Message Template Auto Format enabled
+2022-04-30 21:35:00.2358 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-30 21:35:00.2751 Info Adding target FileTarget(Name=allfile)
+2022-04-30 21:35:00.2751 Info Adding target FileTarget(Name=ownFile-web)
+2022-04-30 21:35:00.2910 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-04-30 21:35:00.3010 Info Configuration initialized.
+2022-04-30 21:35:00.3010 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-30 21:38:18.6365 Info Message Template Auto Format enabled
+2022-04-30 21:38:18.6557 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-30 21:38:18.6876 Info Adding target FileTarget(Name=allfile)
+2022-04-30 21:38:18.6876 Info Adding target FileTarget(Name=ownFile-web)
+2022-04-30 21:38:18.7078 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-04-30 21:38:18.7186 Info Configuration initialized.
+2022-04-30 21:38:18.7186 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-04-30 21:43:45.7405 Info Message Template Auto Format enabled
+2022-04-30 21:43:45.7593 Info Loading assembly: NLog.Web.AspNetCore
+2022-04-30 21:43:45.7962 Info Adding target FileTarget(Name=allfile)
+2022-04-30 21:43:45.7962 Info Adding target FileTarget(Name=ownFile-web)
+2022-04-30 21:43:45.8176 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-04-30 21:43:45.8288 Info Configuration initialized.
+2022-04-30 21:43:45.8288 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-05-01 00:24:00.3601 Info Message Template Auto Format enabled
+2022-05-01 00:24:00.3601 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-01 00:24:00.3973 Info Adding target FileTarget(Name=allfile)
+2022-05-01 00:24:00.3973 Info Adding target FileTarget(Name=ownFile-web)
+2022-05-01 00:24:00.4134 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-05-01 00:24:00.4235 Info Configuration initialized.
+2022-05-01 00:24:00.4235 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-05-01 01:30:39.5574 Info Message Template Auto Format enabled
+2022-05-01 01:30:39.5732 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-01 01:30:39.6045 Info Adding target FileTarget(Name=allfile)
+2022-05-01 01:30:39.6045 Info Adding target FileTarget(Name=ownFile-web)
+2022-05-01 01:30:39.6232 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-05-01 01:30:39.6353 Info Configuration initialized.
+2022-05-01 01:30:39.6353 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-05-01 01:48:00.3909 Info Message Template Auto Format enabled
+2022-05-01 01:48:00.3909 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-01 01:48:00.4323 Info Adding target FileTarget(Name=allfile)
+2022-05-01 01:48:00.4323 Info Adding target FileTarget(Name=ownFile-web)
+2022-05-01 01:48:00.4572 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-05-01 01:48:00.4728 Info Configuration initialized.
+2022-05-01 01:48:00.4728 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-05-01 01:52:51.1585 Info Message Template Auto Format enabled
+2022-05-01 01:52:51.1585 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-01 01:52:51.1978 Info Adding target FileTarget(Name=allfile)
+2022-05-01 01:52:51.1978 Info Adding target FileTarget(Name=ownFile-web)
+2022-05-01 01:52:51.2147 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-05-01 01:52:51.2263 Info Configuration initialized.
+2022-05-01 01:52:51.2263 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-05-01 01:56:31.7606 Info Message Template Auto Format enabled
+2022-05-01 01:56:31.7853 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-01 01:56:31.8105 Info Adding target FileTarget(Name=allfile)
+2022-05-01 01:56:31.8105 Info Adding target FileTarget(Name=ownFile-web)
+2022-05-01 01:56:31.8266 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-05-01 01:56:31.8377 Info Configuration initialized.
+2022-05-01 01:56:31.8377 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-05-01 01:58:21.8220 Info Message Template Auto Format enabled
+2022-05-01 01:58:21.8351 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-01 01:58:21.8638 Info Adding target FileTarget(Name=allfile)
+2022-05-01 01:58:21.8638 Info Adding target FileTarget(Name=ownFile-web)
+2022-05-01 01:58:21.8794 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-05-01 01:58:21.8794 Info Configuration initialized.
+2022-05-01 01:58:21.8902 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-05-01 02:03:18.9648 Info Message Template Auto Format enabled
+2022-05-01 02:03:18.9773 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-01 02:03:19.0039 Info Adding target FileTarget(Name=allfile)
+2022-05-01 02:03:19.0039 Info Adding target FileTarget(Name=ownFile-web)
+2022-05-01 02:03:19.0219 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-05-01 02:03:19.0325 Info Configuration initialized.
+2022-05-01 02:03:19.0325 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-05-01 13:51:11.8480 Info Message Template Auto Format enabled
+2022-05-01 13:51:11.8689 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-01 13:51:11.8990 Info Adding target FileTarget(Name=allfile)
+2022-05-01 13:51:11.8990 Info Adding target FileTarget(Name=ownFile-web)
+2022-05-01 13:51:11.9183 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-05-01 13:51:11.9316 Info Configuration initialized.
+2022-05-01 13:51:11.9316 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-05-01 13:53:44.7475 Info Message Template Auto Format enabled
+2022-05-01 13:53:44.7593 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-01 13:53:44.7846 Info Adding target FileTarget(Name=allfile)
+2022-05-01 13:53:44.7846 Info Adding target FileTarget(Name=ownFile-web)
+2022-05-01 13:53:44.8001 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-05-01 13:53:44.8001 Info Configuration initialized.
+2022-05-01 13:53:44.8001 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-05-01 13:55:39.8800 Info Message Template Auto Format enabled
+2022-05-01 13:55:39.8926 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-01 13:55:39.9207 Info Adding target FileTarget(Name=allfile)
+2022-05-01 13:55:39.9217 Info Adding target FileTarget(Name=ownFile-web)
+2022-05-01 13:55:39.9217 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-05-01 13:55:39.9463 Info Configuration initialized.
+2022-05-01 13:55:39.9463 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-05-01 13:58:16.4689 Info Message Template Auto Format enabled
+2022-05-01 13:58:16.4689 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-01 13:58:16.5091 Info Adding target FileTarget(Name=allfile)
+2022-05-01 13:58:16.5091 Info Adding target FileTarget(Name=ownFile-web)
+2022-05-01 13:58:16.5255 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-05-01 13:58:16.5368 Info Configuration initialized.
+2022-05-01 13:58:16.5368 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-05-01 14:06:04.6628 Info Message Template Auto Format enabled
+2022-05-01 14:06:04.6751 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-01 14:06:04.7056 Info Adding target FileTarget(Name=allfile)
+2022-05-01 14:06:04.7056 Info Adding target FileTarget(Name=ownFile-web)
+2022-05-01 14:06:04.7249 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-05-01 14:06:04.7367 Info Configuration initialized.
+2022-05-01 14:06:04.7367 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-05-01 14:10:53.9630 Info Message Template Auto Format enabled
+2022-05-01 14:10:53.9752 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-01 14:10:54.0006 Info Adding target FileTarget(Name=allfile)
+2022-05-01 14:10:54.0006 Info Adding target FileTarget(Name=ownFile-web)
+2022-05-01 14:10:54.0170 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-05-01 14:10:54.0170 Info Configuration initialized.
+2022-05-01 14:10:54.0170 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-05-01 14:51:41.9231 Info Message Template Auto Format enabled
+2022-05-01 14:51:41.9376 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-01 14:51:41.9652 Info Adding target FileTarget(Name=allfile)
+2022-05-01 14:51:41.9652 Info Adding target FileTarget(Name=ownFile-web)
+2022-05-01 14:51:41.9837 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-05-01 14:51:41.9943 Info Configuration initialized.
+2022-05-01 14:51:41.9943 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-05-01 15:08:44.5807 Info Message Template Auto Format enabled
+2022-05-01 15:08:44.5937 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-01 15:08:44.6258 Info Adding target FileTarget(Name=allfile)
+2022-05-01 15:08:44.6258 Info Adding target FileTarget(Name=ownFile-web)
+2022-05-01 15:08:44.6463 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-05-01 15:08:44.6583 Info Configuration initialized.
+2022-05-01 15:08:44.6583 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-05-01 15:16:08.5749 Info Message Template Auto Format enabled
+2022-05-01 15:16:08.5886 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-01 15:16:08.6179 Info Adding target FileTarget(Name=allfile)
+2022-05-01 15:16:08.6179 Info Adding target FileTarget(Name=ownFile-web)
+2022-05-01 15:16:08.6363 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-05-01 15:16:08.6488 Info Configuration initialized.
+2022-05-01 15:16:08.6488 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-05-01 15:17:53.9106 Info Message Template Auto Format enabled
+2022-05-01 15:17:53.9223 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-01 15:17:53.9477 Info Adding target FileTarget(Name=allfile)
+2022-05-01 15:17:53.9477 Info Adding target FileTarget(Name=ownFile-web)
+2022-05-01 15:17:53.9630 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-05-01 15:17:53.9743 Info Configuration initialized.
+2022-05-01 15:17:53.9743 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-05-01 15:20:38.0483 Info Message Template Auto Format enabled
+2022-05-01 15:20:38.0483 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-01 15:20:38.0929 Info Adding target FileTarget(Name=allfile)
+2022-05-01 15:20:38.0946 Info Adding target FileTarget(Name=ownFile-web)
+2022-05-01 15:20:38.1161 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-05-01 15:20:38.1302 Info Configuration initialized.
+2022-05-01 15:20:38.1302 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-05-01 15:26:44.5725 Info Message Template Auto Format enabled
+2022-05-01 15:26:44.5845 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-01 15:26:44.6097 Info Adding target FileTarget(Name=allfile)
+2022-05-01 15:26:44.6097 Info Adding target FileTarget(Name=ownFile-web)
+2022-05-01 15:26:44.6252 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-05-01 15:26:44.6252 Info Configuration initialized.
+2022-05-01 15:26:44.6252 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-05-01 15:38:30.7601 Info Message Template Auto Format enabled
+2022-05-01 15:38:30.7734 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-01 15:38:30.7990 Info Adding target FileTarget(Name=allfile)
+2022-05-01 15:38:30.7990 Info Adding target FileTarget(Name=ownFile-web)
+2022-05-01 15:38:30.8144 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-05-01 15:38:30.8144 Info Configuration initialized.
+2022-05-01 15:38:30.8144 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-05-01 15:45:04.3066 Info Message Template Auto Format enabled
+2022-05-01 15:45:04.3203 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-01 15:45:04.3596 Info Adding target FileTarget(Name=allfile)
+2022-05-01 15:45:04.3596 Info Adding target FileTarget(Name=ownFile-web)
+2022-05-01 15:45:04.3778 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-05-01 15:45:04.3903 Info Configuration initialized.
+2022-05-01 15:45:04.3903 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-05-01 15:51:27.8161 Info Message Template Auto Format enabled
+2022-05-01 15:51:27.8346 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-01 15:51:27.8636 Info Adding target FileTarget(Name=allfile)
+2022-05-01 15:51:27.8636 Info Adding target FileTarget(Name=ownFile-web)
+2022-05-01 15:51:27.8817 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-05-01 15:51:27.8938 Info Configuration initialized.
+2022-05-01 15:51:27.8938 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-05-01 15:55:11.9002 Info Message Template Auto Format enabled
+2022-05-01 15:55:11.9137 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-01 15:55:11.9410 Info Adding target FileTarget(Name=allfile)
+2022-05-01 15:55:11.9410 Info Adding target FileTarget(Name=ownFile-web)
+2022-05-01 15:55:11.9576 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-05-01 15:55:11.9576 Info Configuration initialized.
+2022-05-01 15:55:11.9576 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-05-01 16:06:55.8644 Info Message Template Auto Format enabled
+2022-05-01 16:06:55.8818 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-01 16:06:55.9081 Info Adding target FileTarget(Name=allfile)
+2022-05-01 16:06:55.9081 Info Adding target FileTarget(Name=ownFile-web)
+2022-05-01 16:06:55.9281 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-05-01 16:06:55.9402 Info Configuration initialized.
+2022-05-01 16:06:55.9402 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-05-01 16:17:46.6503 Info Message Template Auto Format enabled
+2022-05-01 16:17:46.6631 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-01 16:17:46.6884 Info Adding target FileTarget(Name=allfile)
+2022-05-01 16:17:46.6884 Info Adding target FileTarget(Name=ownFile-web)
+2022-05-01 16:17:46.7048 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-05-01 16:17:46.7048 Info Configuration initialized.
+2022-05-01 16:17:46.7048 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-05-01 16:25:19.3475 Info Message Template Auto Format enabled
+2022-05-01 16:25:19.3475 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-01 16:25:19.3864 Info Adding target FileTarget(Name=allfile)
+2022-05-01 16:25:19.3864 Info Adding target FileTarget(Name=ownFile-web)
+2022-05-01 16:25:19.4034 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-05-01 16:25:19.4137 Info Configuration initialized.
+2022-05-01 16:25:19.4137 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-05-01 16:29:25.5396 Info Message Template Auto Format enabled
+2022-05-01 16:29:25.5520 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-01 16:29:25.5798 Info Adding target FileTarget(Name=allfile)
+2022-05-01 16:29:25.5798 Info Adding target FileTarget(Name=ownFile-web)
+2022-05-01 16:29:25.5951 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-05-01 16:29:25.5951 Info Configuration initialized.
+2022-05-01 16:29:25.5951 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
+2022-05-01 16:34:52.3455 Info Message Template Auto Format enabled
+2022-05-01 16:34:52.3664 Info Loading assembly: NLog.Web.AspNetCore
+2022-05-01 16:34:52.3975 Info Adding target FileTarget(Name=allfile)
+2022-05-01 16:34:52.3975 Info Adding target FileTarget(Name=ownFile-web)
+2022-05-01 16:34:52.4177 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\PROG\GlobalTeamsTT\SecretSanta\SecretSanta\bin\Debug\netcoreapp3.1\NLog.config
+2022-05-01 16:34:52.4286 Info Configuration initialized.
+2022-05-01 16:34:52.4286 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.15.867. Product version: 4.7.15+a821647c37ac7a58c6bef2a446847b362de787eb. GlobalAssemblyCache: False
